@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Me chamo Lidia, sou cientista social de formação e aprendiz de <strong>Desenvolvimento Back-end</strong>.<br>
-  No momento estou fazendo curso de Desenvolvimento FullStack na Cubos Academy e desenvolvendo projetos no github para exercitar os conhecimentos,
+  No momento estou fazendo curso de Desenvolvimento FullStack na Cubos Academy e desenvolvendo projetos no github para exercitar os conhecimentos.
 </p>
 
 <p align="left">
